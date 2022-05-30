@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/potential-lamp/static/css/main.073c9b0a.css",
-    "main.js": "/potential-lamp/static/js/main.2814e0b1.js",
+    "main.css": "/potential-lamp/static/css/main.ef4b3b73.css",
+    "main.js": "/potential-lamp/static/js/main.13b2277e.js",
     "static/js/787.87b99682.chunk.js": "/potential-lamp/static/js/787.87b99682.chunk.js",
-    "static/media/logo.svg": "/potential-lamp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/potential-lamp/index.html",
-    "main.073c9b0a.css.map": "/potential-lamp/static/css/main.073c9b0a.css.map",
-    "main.2814e0b1.js.map": "/potential-lamp/static/js/main.2814e0b1.js.map",
+    "main.ef4b3b73.css.map": "/potential-lamp/static/css/main.ef4b3b73.css.map",
+    "main.13b2277e.js.map": "/potential-lamp/static/js/main.13b2277e.js.map",
     "787.87b99682.chunk.js.map": "/potential-lamp/static/js/787.87b99682.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2814e0b1.js"
+    "static/css/main.ef4b3b73.css",
+    "static/js/main.13b2277e.js"
   ]
 }
