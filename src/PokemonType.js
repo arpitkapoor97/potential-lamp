@@ -14,4 +14,5 @@ const PokemonType = PropTypes.shape({
   }),
 });
 
+
 export default PokemonType;

@@ -1,7 +1,7 @@
 import IconButton from "@mui/material/IconButton";
 import RadioButtonUncheckedIcon from "@mui/icons-material/RadioButtonUnchecked";
 import RadioButtonCheckedIcon from "@mui/icons-material/RadioButtonChecked";
-import PropTypes from "prop-types";
+import PokemonType from "../PokemonType";
 import styled from "@emotion/styled";
 
 const RadioContainer = styled.td({
@@ -32,13 +32,7 @@ function PokemonRow({ poke, onSelect, isSelected }) {
   );
 }
 PokemonRow.propTypes = {
-  poke: PropTypes.shape({
-    name: PropTypes.shape({
-      english: PropTypes.string,
-    }),
-    type: PropTypes.arrayOf(PropTypes.string),
-  }),
-  onSelect: PropTypes.func,
+  poke: PokemonType
 };
 
 export default PokemonRow;
